@@ -20,6 +20,7 @@
 using namespace std;
 
 // future (chap. 6+): function prototypes go here - delete this line if you are not using functions
+// if you are not using functions, you may delete this line and the above line.
 
 // main function here
 int main()
@@ -28,3 +29,4 @@ int main()
 }
 
 // future (chap. 6+): function implementations go here - delete this line if you are not using functions
+// if you are not using functions, you may delete this line and the above line.
