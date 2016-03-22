@@ -26,6 +26,7 @@ using namespace std;
 int main()
 {
 	// your main program goes here
+	return 0; // this line is optional
 }
 
 // future (chap. 6+): function implementations go here - delete this line if you are not using functions
